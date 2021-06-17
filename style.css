@@ -1,0 +1,55 @@
+
+/* HTML TAGS AS SELECTORS */
+
+
+
+body{
+
+  background-color:azure;
+
+}
+
+h1 {
+color:red;
+font-size:90px;
+
+
+}
+p{
+
+  color:grey;
+  font-size:24px;
+
+
+/* classes */
+
+.strawberry {
+  background-color: yellow;
+}
+
+.broccoli {
+
+background-color:red;
+
+}
+
+.para1{
+color:green
+}
+.para2{
+color:grey
+}
+.para3
+{
+color:yellow
+}
+/* IDs */
+
+#heading{
+  color:blue;
+
+}
+#par{
+
+  color:red;
+}
